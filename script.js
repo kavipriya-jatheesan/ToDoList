@@ -141,7 +141,7 @@ function render() {
     emptyState.querySelector('p').textContent =
       filter === 'done'   ? 'No completed tasks yet.'    :
       filter === 'active' ? 'All tasks done! Great job!' :
-      'Nothing here. Add something!';
+      'Have A Nice Day😁';
 
     return;
   }
